@@ -4,15 +4,6 @@
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-### Files
-
-* [Test Data] - Use this while developing your scripts.
-
-* [Stock Data] - Run your scripts on this data to generate the final homework report.
-
-### Stock market analyst
-
-
 ## Instructions
 
 * Create a script that will loop through all the stocks for one year and output the following information.
@@ -26,9 +17,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
   * The total stock volume of the stock.
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
-
-* The result should look as follows.
-
 
 ## BONUS
 
